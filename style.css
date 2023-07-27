@@ -1,0 +1,8 @@
+body{
+  background:deepskyblue;
+}
+canvas{
+  border-radius: 30px;
+  margin-top: 120px;
+  background-color:white;
+}
